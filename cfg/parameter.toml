@@ -1,0 +1,5 @@
+[Param]
+K=10
+sigma=0.5
+threshold=1.003
+pcd_name="../data/point_0025.pcd"
